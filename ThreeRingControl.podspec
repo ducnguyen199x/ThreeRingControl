@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://raywenderlich.com"
   s.license      = "MIT"
   s.author             = { "Nguyen Thanh Duc" => "duc.nguyen@2359media.com" }
-  s.source       = { :git => "https://github.com/ducnguyen199x/ThreeRingControl.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/ducnguyen199x/ThreeRingControl.git", :tag => "1.0.1" }
   s.platform     = :ios, "10.0"
   s.source_files  = "ThreeRingControl", "ThreeRingControl/**/*.{h,m,swift}"
   s.exclude_files = "Classes/Exclude"
