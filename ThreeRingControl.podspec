@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   s.source_files  = "ThreeRingControl", "ThreeRingControl/**/*.{h,m,swift}"
   s.exclude_files = "Classes/Exclude"
   s.resources    = "ThreeRingControl/*.mp3"
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.2' }
 
 end
